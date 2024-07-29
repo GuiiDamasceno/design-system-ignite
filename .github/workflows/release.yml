@@ -32,10 +32,5 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-<<<<<<< HEAD
         TURBO_TOKEN: ${{ secrets.VERCEL_TOKEN }}
         TURBO_TEAM: guiidamascenos-projects
-=======
-        TURBO_TOKEN: pj9BIOLONiZktNyAwVysYkdJ
-        TURBO_TEAM: guiidamascenos-projects
->>>>>>> fd8220d9fc0e7ccf34dae1b017a84f80fa6b9fe9
