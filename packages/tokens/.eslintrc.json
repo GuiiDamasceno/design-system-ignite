@@ -1,3 +1,3 @@
 {
-  "extends": "@ignite-ui/eslint-config"
+  "extends": "@guii-ignite-ui/eslint-config"
 }
